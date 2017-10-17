@@ -12,3 +12,4 @@ Creating a new branch is quick and simple.
 git hello 
 git cnmb
 git mmp
+my stupid boss still prefers svn
