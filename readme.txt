@@ -10,4 +10,4 @@ I had added a new branch
 sha bu la ji de 
 Creating a new branch is quick and simple.
 git hello 
-git is free software
+git is a distributed version control system
