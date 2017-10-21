@@ -14,3 +14,4 @@ git cnmb
 git mmp
 my stupid boss still prefers svn
 ai maya 
+Creating a new branch is quick AND simple.
